@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abhaybansod/Downloads/MyStickyNotes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/abhaybansod/Downloads/MyStickyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a57747e4a0293a316415dfe8a4d4fdd5102caaac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhaybansod/Downloads/MyStickyNotes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2dac270b16cfc271b931a39ac4581bea1dd4115">
+        <dex dex="/Users/abhaybansod/Downloads/MyStickyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6dc676de7371e99381aa5d593caf6c406a3aa8d5/classes.dex" />
+    </item>
+
+</items>

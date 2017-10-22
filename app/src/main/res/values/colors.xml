@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF9A19</color>
+    <color name="colorPrimaryDark">#EF9A19</color>
+    <color name="colorAccent">#E31B1B</color>
+    <color name="bg_screen3">#4793C4</color>
+    <color name="oranged">#FF6F00</color>
+</resources>
